@@ -1,4 +1,4 @@
-### Hi 👋, This is Mia 
+### Hi :confetti_ball: , This is Mia 
 ---
 
 <!--
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ### 💖 &nbsp; About
 
-
 :sweat_drops: &nbsp; Ex-Auditor \
 :ribbon: &nbsp; Current programmer\
 🎓 &nbsp; Graduate Student of Computer Science @ Northeastern University\
@@ -28,8 +27,7 @@ Here are some ideas to get you started:
 ### :crystal_ball: &nbsp; Tech stack I used
 **Languages**: Java, Python, JavaScript, HTML, CSS, SQL, C\
 **Databases**: MySQL, SQLite, MongoDB\
-**Frameworks** & Tools: React, Node.js, Bootstrap, JQuery, Postman, Maven, Linux, Git, AWS\
+**Frameworks** & Tools: React, Node.js, Bootstrap, JQuery, Postman, Maven, Linux, Git, AWS
 
 ### 💬 &nbsp; Connect with me
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-zhao/)
