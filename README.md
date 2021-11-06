@@ -1,5 +1,5 @@
-## Hi there! This is Mia 👋
-
+### Hi 👋, This is Mia 
+---
 
 <!--
 **miaaaz/miaaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### :sparkles: &nbsp; About
+### 💖 &nbsp; About
 
 
-- :sweat_drops: &nbsp; Ex-Auditor
-- :ribbon: &nbsp; Current programmer
-- 🎓 &nbsp; Graduate Student of Computer Science @ Northeastern University
-- :shaved_ice: &nbsp; Bubble milk tea lover
-- :cactus: &nbsp; Seeking SDE internship for Spring/Summer 22'
+:sweat_drops: &nbsp; Ex-Auditor \
+:ribbon: &nbsp; Current programmer\
+🎓 &nbsp; Graduate Student of Computer Science @ Northeastern University\
+:shaved_ice: &nbsp; Bubble milk tea lover\
+:cactus: &nbsp; Seeking SDE internship for Spring/Summer 22'
+
