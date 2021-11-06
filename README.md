@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 :sweat_drops: &nbsp; Ex-Auditor \
 :ribbon: &nbsp; Current programmer\
-🎓 &nbsp; Graduate Student of Computer Science @ Northeastern University\
 :shaved_ice: &nbsp; Bubble milk tea lover\
+🎓 &nbsp; Graduate Student of Computer Science @ Northeastern University\
 :cactus: &nbsp; Seeking SDE internship for Spring/Summer 22'
 
 ### :crystal_ball: &nbsp; Tech stack I used
