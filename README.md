@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 :shaved_ice: &nbsp; Bubble milk tea lover\
 :cactus: &nbsp; Seeking SDE internship for Spring/Summer 22'
 
+### :crystal_ball: &nbsp; Tech stack I used
+**Languages**: Java, Python, JavaScript, HTML, CSS, SQL, C\
+**Databases**: MySQL, SQLite, MongoDB\
+**Frameworks** & Tools: React, Node.js, Bootstrap, JQuery, Postman, Maven, Linux, Git, AWS\
+
+### 💬 &nbsp; Connect with me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-zhao/)
