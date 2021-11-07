@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 :ribbon: &nbsp; Current programmer\
 :shaved_ice: &nbsp; Bubble milk tea lover\
 🎓 &nbsp; Graduate Student of Computer Science @ Northeastern University\
-:cactus: &nbsp; Seeking SDE internship for Spring/Summer 22'
+:cactus: &nbsp; Seeking SDE internship for Spring/Summer '22
 
 ### :crystal_ball: &nbsp; Tech stack I used
 **Languages**: Java, Python, JavaScript, HTML, CSS, SQL, C\
